@@ -1,6 +1,7 @@
 # summernote-img-upload
-Modified summernote wysiwyg editor to upload images to filesystem and displey them in the editor
-this is a working example of image upload feature.
+Modified summernote wysiwyg editor to upload images to filesystem and display in the editor.
+
+This is a working example of image upload feature.
 
 The original summernote converts uploaded images to base64 format.
 
